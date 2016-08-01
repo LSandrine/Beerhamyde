@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Beerhamyde</string>
+    <string name="number_player">NUMBER OF PLAYERS :</string>
 </resources>
